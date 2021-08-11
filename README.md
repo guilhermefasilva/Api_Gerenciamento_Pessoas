@@ -1,8 +1,8 @@
-#Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot </br>
+# Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot </br>
 
-###Desenvolvimento de um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.</br>
+### Desenvolvimento de um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.</br>
 
-###No desenvolvimento, foram abordados os seguintes tópicos:</br>
+### No desenvolvimento, foram abordados os seguintes tópicos:</br>
 
 
 * Setup inicial de projeto com o Spring Boot Initialzer</br>
@@ -12,22 +12,22 @@
 * Documentação da Api utilizando o swagger</br>
 
 
-###Ao executar o projeto na máquina local, este estará disponivel no endpoint:</br>
+### Ao executar o projeto na máquina local, este estará disponivel no endpoint:</br>
 
 * http://localhost:8080/api/person</br>
 
-###Para acessar a documentação do projeto, ao executar o projeto estará disponivel no endpont:</br>
+### Para acessar a documentação do projeto, ao executar o projeto estará disponivel no endpont:</br>
 
 * http://localhost:8080/swagger-ui/ 
 
-###São necessários os seguintes pré-requisitos para a execução do projeto:</br>
+### São necessários os seguintes pré-requisitos para a execução do projeto:</br>
 
 * Java 11 ou versões superiores.</br>
 * Maven 3.6.3 ou versões superiores.</br>
 * Eclipse ou sua IDE favorita.</br>
 * Postman ou insomnia para testar os endpints</br>
 
-###Abaixo, seguem links referencias, sobre tópicos mencionados durante a aula:</br>
+### Abaixo, seguem links referencias, sobre tópicos mencionados durante a aula:</br>
 
 
 [Site Oficial do Spring](https://spring.io/)</br>

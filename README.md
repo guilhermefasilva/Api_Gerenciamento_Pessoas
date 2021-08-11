@@ -14,11 +14,11 @@
 
 ### Ao executar o projeto na máquina local, este estará disponivel no endpoint:</br>
 
-* http://localhost:8080/api/person</br>
+* <code>http://localhost:8080/api/person</code></br>
 
 ### Para acessar a documentação do projeto, ao executar o projeto estará disponivel no endpont:</br>
 
-* http://localhost:8080/swagger-ui/ 
+* <code>http://localhost:8080/swagger-ui/</code></br>
 
 ### São necessários os seguintes pré-requisitos para a execução do projeto:</br>
 
